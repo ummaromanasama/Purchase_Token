@@ -1,2 +1,2 @@
 # Purchase_Token
-Demonstrating purchase of tocken and checking wallet balance.
+Demonstrating purchase of token and checking wallet balance.
